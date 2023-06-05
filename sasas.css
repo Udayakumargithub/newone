@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #00FA9A;
+
+}
+.main{
+    margin-top: 10%;
+}
+.heading{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 30px;
+}
+.img{
+    margin-left: 330px;
+}
+.img #image{
+    display: block;
+    width: 800px;
+}
+.caption{
+    font-size: 19px;
+    margin-left: 250px;
+    font-family: Gill Sans;
+    color: black;
+}
+.tribute-data{
+    background-color: rgb(46, 139, 87, 0.25);
+    box-shadow: 20px 20px 20px #98FB98;
+    font-family: Georgia;
+    padding: 15px 15px;
+    margin: 11px;
+    margin-top: 47px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title-APJ{
+    text-align: center;
+}
+.tribute-data p{
+    padding: 15px;
+}
